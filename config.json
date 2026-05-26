@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerponnect",
+        "uuid": 2760660,
+        "checksum": "eqnqjo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
